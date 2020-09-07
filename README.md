@@ -10,3 +10,5 @@ Create more sprites, and other entities.
 Allow the player to cast spells, and use abilities.
 
 Add collision detection.
+
+Automatically generate new tilemaps.
