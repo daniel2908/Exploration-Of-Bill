@@ -1,6 +1,7 @@
 # Exploration Of Bill
 A rougue-like rpg featuring a wizard and randomly generated dungeons.
 
+To compile you must have SDL installed!
 # To-do
 
 Create randomization for the levels, and allow player controls.
