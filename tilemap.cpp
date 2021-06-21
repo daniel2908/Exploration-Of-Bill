@@ -70,7 +70,6 @@ void Map::DrawMap()
             {
             case 0:
                 TextureManager::Draw(stone, src, dest);
-                
                 break; 
             case 1:
                 TextureManager::Draw(grass, src, dest);
